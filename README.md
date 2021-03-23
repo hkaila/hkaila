@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hkaila
-- 👀 I’m interested in *.dev
+- 👀 I’m interested in Java,JavaScript & django
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on open source projects
+- 💞️ I’m looking to collaborate in open source projects
 - 📫 How to reach me @Hkaila_
 
 <!---
